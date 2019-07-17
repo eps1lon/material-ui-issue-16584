@@ -1120,9 +1120,9 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@material-ui/core@https://eps1lon-material-ui.s3.eu-central-1.amazonaws.com/artifacts/merge/b8a389b39e960f8001e4c22b876838c70f26a091/material-ui-core.tgz":
-  version "0.0.0-canary.b8a389b39e960f8001e4c22b876838c70f26a091"
-  resolved "https://eps1lon-material-ui.s3.eu-central-1.amazonaws.com/artifacts/merge/b8a389b39e960f8001e4c22b876838c70f26a091/material-ui-core.tgz#7c23d9d65eec37a64cb0c14e6dba128de3eb6e49"
+"@material-ui/core@https://eps1lon-material-ui.s3.eu-central-1.amazonaws.com/artifacts/merge/7ef8674b7a9af65d2814c2698b45c80030a8ee1e/material-ui-core.tgz":
+  version "0.0.0-canary.7ef8674b7a9af65d2814c2698b45c80030a8ee1e"
+  resolved "https://eps1lon-material-ui.s3.eu-central-1.amazonaws.com/artifacts/merge/7ef8674b7a9af65d2814c2698b45c80030a8ee1e/material-ui-core.tgz#7c1aca8d44ba245777d6bd66ad7baa0f96542f1b"
   dependencies:
     "@babel/runtime" "^7.2.0"
     "@material-ui/styles" "^4.2.0"

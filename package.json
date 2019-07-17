@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@material-ui/core": "https://eps1lon-material-ui.s3.eu-central-1.amazonaws.com/artifacts/merge/b8a389b39e960f8001e4c22b876838c70f26a091/material-ui-core.tgz",
+    "@material-ui/core": "https://eps1lon-material-ui.s3.eu-central-1.amazonaws.com/artifacts/merge/7ef8674b7a9af65d2814c2698b45c80030a8ee1e/material-ui-core.tgz",
     "@material-ui/styles": "4.2.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
